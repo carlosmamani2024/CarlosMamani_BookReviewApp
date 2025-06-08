@@ -1,6 +1,6 @@
 # Actualizacion_de_BookReviewApp
 
-Ejercicio Univalle Posgrado
+Univalle Posgrado
 
 # MiComidaFavorita
 ## Instrucciones de instalación
