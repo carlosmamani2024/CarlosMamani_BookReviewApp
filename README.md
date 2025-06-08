@@ -1,10 +1,11 @@
-# Actualizacion_de_MiComidaFavorita
+# Actualizacion_de_BookReviewApp
+
 Ejercicio Univalle Posgrado
 
 # MiComidaFavorita
 ## Instrucciones de instalación
 
-1. Clona el repositorio: https://github.com/carlosmamani2024/MiComidaFavorita.git
+1. Clona el repositorio
 2. Instala las dependencias: npm install
 3. Configura Firebase (Authentication, Firestore, Storage) y actualiza `config/firebase.js` con tus credenciales.
 4. Ejecuta la aplicación: npx expo start o expo start
