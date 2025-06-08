@@ -2,7 +2,6 @@
 
 Univalle Posgrado
 
-# MiComidaFavorita
 ## Instrucciones de instalación
 
 1. Clona el repositorio
